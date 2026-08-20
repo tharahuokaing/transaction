@@ -30,9 +30,9 @@
         { id: "TXN-KN-90240", party: "Acc...9940 (Sok Rachana)", network: "Interbank ISO Gateway", direction: "outflow", amount: 10000000.00, time: "15:55:00", status: "Success" },
         { id: "TXN-KN-90241", party: "Acc...9941 (Sok Khemera)", network: "Interbank ISO Gateway", direction: "inflow", amount: 0.00, time: "00:00:00", status: "Pending" },
         { id: "TXN-KN-90242", party: "Acc...9942 (Huo)", network: "Bakong Transfer Sweep", direction: "inflow", amount: 0.00, time: "00:00:00", status: "Pending" },      
-        { id: "TXN-KN-90243", party: "Acc...9943 (Khen Lyda)", network: "Bakong Transfer Sweep", direction: "inflow", amount: 10000000.00, time: "00:00:00", status: "Pending" },
+        { id: "TXN-KN-90243", party: "Acc...9943 (Khen Lyda)", network: "Bakong Transfer Sweep", direction: "outflow", amount: 10000000.00, time: "00:00:00", status: "Pending" },
         { id: "TXN-KN-90244", party: "Acc...9944 (B)", network: "Bakong Transfer Sweep", direction: "inflow", amount: 0.00, time: "00:00:00", status: "Pending" },      
-        { id: "TXN-KN-90245", party: "Acc...9945 (Raem)", network: "Retail Mobile Gateway", direction: "inflow", amount: 0.00, time: "00:00:00", status: "Pending" }
+        { id: "TXN-KN-90245", party: "Acc...9945 (Raem)", network: "Retail Mobile Gateway", direction: "outflow", amount: 0.00, time: "00:00:00", status: "Pending" }
     ];
 
     let currentFilter = "all";
