@@ -33,6 +33,7 @@
         { id: "TXN-KN-90243", party: "Acc...9943 (Khen Lyda)", network: "Bakong Transfer Sweep", direction: "pending", amount: 10000000.00, time: "00:00:00", status: "Pending" },
         { id: "TXN-KN-90244", party: "Acc...9944 (B)", network: "Bakong Transfer Sweep", direction: "pending", amount: 0.00, time: "00:00:00", status: "Pending" },      
         { id: "TXN-KN-90245", party: "Acc...9945 (Huokaing Tharoth)", network: "Bakong Transfer Sweep", direction: "pending", amount: 0.00, time: "00:00:00", status: "Pending" },      
+        { id: "TXN-KN-90245", party: "Acc...9945 (Nita)", network: "Bakong Transfer Sweep", direction: "pending", amount: 0.00, time: "00:00:00", status: "Pending" },      
         { id: "TXN-KN-90246", party: "Acc...9946 (Raem)", network: "Retail Mobile Gateway", direction: "pending", amount: 0.00, time: "00:00:00", status: "Pending" }
     ];
 
