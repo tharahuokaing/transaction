@@ -18,7 +18,7 @@
         { id: "TXN-KN-90228", party: "Acc...90228 (Vanneat)", network: "FAST Clearing Node", direction: "pending", amount: 0.00, time: "00:00:00", status: "Pending" },
         { id: "TXN-KN-90229", party: "Acc...90229 (Mengly)", network: "Bakong Transfer Sweep", direction: "outflow", amount: 31000000.00, time: "10:07:00", status: "Success" },
         { id: "TXN-KN-90230", party: "Acc...90230 (Leyu)", network: "National Clearing House", direction: "pending", amount: 0.00, time: "00:00:00", status: "Pending" },
-        { id: "TXN-KN-90231", party: "Acc...90231 (Sengchhat)", network: "Bakong Transfer Sweep", direction: "outflow", amount: 51000000.00, time: "16:25:00", status: "Success" },      
+        { id: "TXN-KN-90231", party: "Acc...90231 (Sengchhat)", network: "Bakong Transfer Sweep", direction: "outflow", amount: 42000000.00, time: "16:25:00", status: "Success" },      
         { id: "TXN-KN-90232", party: "Acc...90232 (Do)", network: "Bakong Transfer Sweep", direction: "pending", amount: 1.00, time: "00:00:00", status: "Pending" },
         { id: "TXN-KN-90233", party: "Acc...90233 (Jav)", network: "Bakong Transfer Sweep", direction: "pending", amount: 1.00, time: "00:00:00", status: "Pending" },
         { id: "TXN-KN-90234", party: "Acc...90234 (Kimmuy)", network: "Bakong Transfer Sweep", direction: "outflow", amount: 10010000.00, time: "11:58:11", status: "Success" },
